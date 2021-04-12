@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
 *.html
+=======
+*.html
+!/*.html
+>>>>>>> james/master
